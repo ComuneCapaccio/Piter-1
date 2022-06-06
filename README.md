@@ -4,9 +4,9 @@ Piattaforma Integrata TERritoriale
 ## Introduzione
 Questo repository contiene il codice sorgente 
 di Piter (release 1.0.0), piattaforma cartografica fornita al Comune di Capaccio 
-per la visualizzazione e l'interrograzione dei dati catastali, l'estrazione 
+per la visualizzazione e l'interrogazione dei dati catastali, l'estrazione 
 dei dati derivanti dai vincoli che insistono su una particella catastale e 
-infine la visualizzazione delle pratiche Suap e Sued su cartografia digitale tecnica.
+infine per la visualizzazione delle pratiche Suap e Sued su cartografia digitale tecnica.
 
 ## Installazione
 Al fine di consentire la piú ampia personalizzazione alle Amministrazioni
