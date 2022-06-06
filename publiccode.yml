@@ -1,0 +1,75 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - geographic-information-systems
+  - data-analytics
+  - digital-citizenship
+  - digital-asset-management
+description:
+  it:
+    features:
+      - |-
+        Catastali cartografici e alfanumerici, analisi dei vincoli di una
+        particella, Suap, Sued, stampe pdf
+    genericName: Piter
+    localisedName: Piter
+    longDescription: |
+      Piattaforma cartografica per la visualizzazione e l'interrogazione dei
+      dati cartografici dell'amministrazione comunale.
+
+
+      Nello specifico la piattaforma permette:
+
+
+      -  visualizzazione e interrogazione dei dati catastali cartografici e
+      alfanumerici (ricerca foglio e particella, zoom a particella)
+
+      -  l'estrazione dei dati derivanti dai vincoli aggiunti in cartografia
+      (tramite carotaggio sulla particella catastale selezionata)
+
+      -  estrazione pdf della cartografia e dell'analisi dei vincoli sopra
+      descritta
+
+      - visualizzazione delle pratiche Suap e Sued su cartografia digitale
+      tecnica. 
+    shortDescription: Piattaforma Integrata TERritoriale
+developmentStatus: stable
+intendedAudience:
+  countries:
+    - it
+  scope:
+    - government
+    - infrastructures
+    - security
+it:
+  conforme:
+    gdpr: false
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: false
+    modelloInteroperabilita: false
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: false
+legal:
+  license: 0BSD
+  mainCopyrightOwner: Comune di Capaccio
+  repoOwner: Comune di Capaccio
+localisation:
+  availableLanguages:
+    - it
+  localisationReady: true
+maintenance:
+  type: none
+name: Piter
+platforms:
+  - windows
+releaseDate: '2020-02-01'
+softwareType: standalone/web
+softwareVersion: 1.0.0
+url: 'https://github.com/GeosafetySrl/Piter'
